@@ -2,7 +2,7 @@
 
 <h1 align="center">Тетрис</h1>
 <div align="center">
-<a href='https://azemcov.github.io/TETRIS'><img src="./src/tetris.gif" alt="Логотип «Своя Игра»" width="30%"></a>
+<a href='https://azemcov.github.io/TETRIS'><img src="./src/tetris.gif" alt="Превью" width="30%"></a>
 </div>
 
 <div align="center">

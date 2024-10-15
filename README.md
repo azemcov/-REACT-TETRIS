@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<a href='https://azemcov.github.io/TETRIS'>👉👉 ОТКРЫТЬ 👈👈</a>
+<a href='https://azemcov.github.io/TETRIS'>👉 ОТКРЫТЬ 👈</a>
 </div>
 
 ## 📖 Описание
